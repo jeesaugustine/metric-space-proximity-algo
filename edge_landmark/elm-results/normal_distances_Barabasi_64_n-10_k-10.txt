@@ -1,0 +1,8 @@
+Sampling: True
+No of Nodes in Graph: 64 
+Total Known Edges in Graph: 186 
+Total Right Samples(n): 10 
+Total Left Edges(k): 10
+ Sum Lower Bounds: 45.04321344864757
+ Time Taken:0.013570614655812581
+==================================================
