@@ -1,0 +1,629 @@
+26 27
+24 27
+24 25
+0 25
+421 429
+19 429
+19 438
+8 438
+8 431
+20 431
+21 442
+436 442
+422 436
+20 422
+1 20
+1 5
+5 13
+13 14
+12 14
+3 12
+3 17
+17 22
+15 22
+6 15
+2 6
+2 31
+31 424
+30 424
+30 427
+425 427
+425 426
+32 426
+32 428
+423 428
+18 423
+20 28
+28 29
+29 33
+72 97
+97 106
+77 106
+72 77
+84 111
+79 84
+79 108
+108 111
+34 44
+44 46
+35 46
+34 35
+162 194
+194 209
+209 216
+216 222
+179 222
+173 179
+162 173
+214 218
+214 244
+244 247
+224 247
+218 224
+316 318
+313 318
+313 334
+334 335
+319 335
+316 319
+247 250
+234 250
+233 234
+228 233
+224 228
+335 337
+336 337
+336 340
+330 340
+326 330
+325 326
+324 325
+322 324
+317 322
+317 321
+319 321
+240 241
+229 240
+226 229
+226 238
+237 238
+237 253
+253 254
+254 259
+259 265
+260 265
+260 262
+241 262
+331 342
+342 344
+333 344
+331 333
+262 268
+243 268
+241 243
+132 159
+159 164
+138 164
+136 138
+132 136
+70 89
+89 91
+73 91
+70 73
+246 275
+275 279
+248 279
+246 248
+91 99
+76 99
+73 76
+279 286
+252 286
+251 252
+245 251
+242 245
+242 249
+248 249
+140 166
+166 169
+141 169
+140 141
+338 341
+339 341
+339 346
+346 348
+348 351
+351 362
+343 362
+338 343
+99 105
+78 105
+76 78
+143 176
+176 187
+148 187
+147 148
+143 147
+105 109
+81 109
+78 81
+258 291
+291 299
+267 299
+258 267
+109 110
+86 110
+81 86
+299 305
+272 305
+267 272
+150 191
+191 195
+151 195
+150 151
+395 401
+360 401
+357 360
+355 357
+353 355
+353 395
+36 56
+56 60
+38 60
+37 38
+36 37
+110 112
+90 112
+86 90
+278 309
+309 311
+284 311
+278 284
+155 201
+201 211
+156 211
+155 156
+112 116
+94 116
+90 94
+311 315
+290 315
+284 290
+158 213
+213 217
+163 217
+158 163
+40 58
+58 64
+45 64
+40 45
+116 120
+100 120
+94 100
+165 221
+221 225
+168 225
+165 168
+361 368
+361 369
+367 369
+367 403
+403 409
+368 409
+49 69
+69 71
+55 71
+49 55
+95 122
+122 125
+103 125
+101 103
+95 101
+174 177
+174 181
+171 181
+171 227
+227 230
+185 230
+183 185
+177 183
+189 192
+189 193
+190 193
+190 197
+196 197
+196 232
+232 235
+192 235
+407 411
+402 411
+402 404
+394 404
+392 394
+387 392
+385 387
+378 385
+375 378
+375 382
+376 382
+376 383
+379 383
+379 412
+412 413
+407 413
+199 203
+199 205
+198 205
+198 236
+236 239
+208 239
+207 208
+203 207
+281 282
+273 282
+270 273
+269 270
+266 269
+261 266
+255 261
+255 263
+257 263
+257 264
+256 264
+256 283
+283 287
+287 289
+289 293
+293 295
+295 300
+298 300
+298 302
+281 302
+274 276
+274 277
+271 277
+271 296
+296 301
+301 306
+306 307
+307 310
+310 312
+285 312
+280 285
+276 280
+389 414
+414 415
+396 415
+389 396
+366 370
+359 366
+359 372
+371 372
+371 380
+380 393
+377 393
+370 377
+308 320
+320 323
+323 329
+329 332
+327 332
+327 328
+314 328
+308 314
+304 314
+303 304
+294 303
+288 294
+288 297
+292 297
+292 308
+142 152
+152 161
+153 161
+142 153
+170 204
+204 212
+212 223
+223 231
+220 231
+219 220
+202 219
+188 202
+182 188
+170 182
+149 160
+160 175
+157 175
+154 157
+149 154
+134 149
+146 157
+134 146
+124 137
+137 144
+130 144
+129 130
+124 129
+127 135
+135 145
+131 145
+127 131
+115 117
+107 117
+92 107
+92 114
+114 121
+115 121
+75 85
+85 93
+80 93
+75 80
+42 53
+53 68
+61 68
+47 61
+42 47
+67 75
+74 80
+67 74
+62 67
+66 74
+62 66
+51 62
+57 66
+51 57
+48 57
+41 48
+41 51
+126 133
+133 139
+128 139
+126 128
+363 390
+390 399
+373 399
+363 373
+113 119
+119 123
+118 123
+113 118
+39 50
+50 52
+43 52
+39 43
+83 98
+98 104
+88 104
+83 88
+54 63
+63 65
+59 65
+54 59
+167 200
+200 210
+172 210
+167 172
+82 96
+96 102
+87 102
+82 87
+384 391
+384 405
+405 410
+408 410
+391 408
+345 358
+358 365
+352 365
+347 352
+345 347
+356 366
+370 374
+364 374
+356 364
+381 400
+400 406
+398 406
+397 398
+386 397
+381 386
+180 184
+180 186
+178 186
+178 206
+206 215
+184 215
+350 354
+349 354
+349 388
+388 395
+350 353
+7 420
+8 420
+8 9
+4 9
+4 10
+10 11
+11 12
+16 430
+23 430
+9 23
+1 9
+434 435
+419 434
+419 443
+437 443
+433 437
+432 433
+431 432
+418 441
+418 444
+416 444
+416 417
+417 440
+439 440
+438 439
+From read file466
+Input (Graph)File is written; You can start Python code
+size of known: 466
+Sampling unknown edges
+No Sampling; Full Unkown Edges are chosen ..... 
+Finding paths
+Constructing big matrix
+Constructed big matrix
+Adding edge : 2 1.91428 7.83469
+size of selected edge set: 2
+selected edge is: 19 438
+Adding edge : 3 2.75011 6.99886
+size of selected edge set: 3
+selected edge is: 439 440
+Adding edge : 4 3.50984 6.23913
+size of selected edge set: 4
+selected edge is: 2 6
+Adding edge : 5 3.99287 5.7561
+size of selected edge set: 5
+selected edge is: 2 31
+Adding edge : 6 4.4555 5.29347
+size of selected edge set: 6
+selected edge is: 8 420
+Adding edge : 7 4.88289 4.86608
+size of selected edge set: 7
+selected edge is: 431 432
+Adding edge : 8 5.18725 4.56172
+size of selected edge set: 8
+selected edge is: 9 23
+Adding edge : 9 5.48661 4.26236
+size of selected edge set: 9
+selected edge is: 17 22
+Adding edge : 10 5.73681 4.01216
+size of selected edge set: 10
+selected edge is: 8 9
+Adding edge : 11 5.96506 3.78391
+size of selected edge set: 11
+selected edge is: 19 429
+Adding edge : 12 6.18572 3.56325
+size of selected edge set: 12
+selected edge is: 353 395
+Adding edge : 13 6.32899 3.41998
+size of selected edge set: 13
+selected edge is: 23 430
+Adding edge : 14 6.47021 3.27876
+size of selected edge set: 14
+selected edge is: 319 335
+Adding edge : 15 6.60714 3.14183
+size of selected edge set: 15
+selected edge is: 20 28
+Adding edge : 16 6.72788 3.02109
+size of selected edge set: 16
+selected edge is: 11 12
+Adding edge : 17 6.84359 2.90538
+size of selected edge set: 17
+selected edge is: 1 9
+Adding edge : 18 6.95082 2.79815
+size of selected edge set: 18
+selected edge is: 12 14
+Adding edge : 19 7.05336 2.69561
+size of selected edge set: 19
+selected edge is: 185 230
+Adding edge : 20 7.1423 2.60667
+size of selected edge set: 20
+selected edge is: 241 262
+Adding edge : 21 7.2263 2.52267
+size of selected edge set: 21
+selected edge is: 208 239
+Adding edge : 22 7.31027 2.4387
+size of selected edge set: 22
+selected edge is: 434 435
+Adding edge : 23 7.38901 2.35996
+size of selected edge set: 23
+selected edge is: 53 68
+Adding edge : 24 7.46726 2.28171
+size of selected edge set: 24
+selected edge is: 192 235
+Adding edge : 25 7.5426 2.20637
+size of selected edge set: 25
+selected edge is: 224 247
+Adding edge : 26 7.6168 2.13217
+size of selected edge set: 26
+selected edge is: 237 253
+Adding edge : 27 7.68138 2.06759
+size of selected edge set: 27
+selected edge is: 380 393
+Adding edge : 28 7.74322 2.00575
+size of selected edge set: 28
+selected edge is: 29 33
+Adding edge : 29 7.79235 1.95662
+size of selected edge set: 29
+selected edge is: 379 412
+Adding edge : 30 7.83923 1.90974
+size of selected edge set: 30
+selected edge is: 24 27
+Adding edge : 31 7.88465 1.86432
+size of selected edge set: 31
+selected edge is: 1 20
+Adding edge : 32 7.92865 1.82032
+size of selected edge set: 32
+selected edge is: 20 422
+Adding edge : 33 7.97237 1.7766
+size of selected edge set: 33
+selected edge is: 148 187
+Adding edge : 34 8.01442 1.73455
+size of selected edge set: 34
+selected edge is: 367 403
+Adding edge : 35 8.05431 1.69466
+size of selected edge set: 35
+selected edge is: 248 279
+Adding edge : 36 8.09414 1.65483
+size of selected edge set: 36
+selected edge is: 138 164
+Adding edge : 37 8.13224 1.61673
+size of selected edge set: 37
+selected edge is: 103 125
+Adding edge : 38 8.16957 1.5794
+size of selected edge set: 38
+selected edge is: 223 231
+Adding edge : 39 8.20541 1.54356
+size of selected edge set: 39
+selected edge is: 423 428
+Adding edge : 40 8.24118 1.50779
+size of selected edge set: 40
+selected edge is: 330 340
+Adding edge : 41 8.2766 1.47237
+size of selected edge set: 41
+selected edge is: 36 56
+Adding edge : 42 8.30945 1.43952
+size of selected edge set: 42
+selected edge is: 188 202
+Adding edge : 43 8.34218 1.40679
+size of selected edge set: 43
+selected edge is: 308 314
+Adding edge : 44 8.37462 1.37435
+size of selected edge set: 44
+selected edge is: 256 283
+Adding edge : 45 8.40597 1.343
+size of selected edge set: 45
+selected edge is: 0 25
+Adding edge : 46 8.43526 1.31371
+size of selected edge set: 46
+selected edge is: 351 362
+Adding edge : 47 8.46204 1.28693
+size of selected edge set: 47
+selected edge is: 51 57
+Adding edge : 48 8.4883 1.26067
+size of selected edge set: 48
+selected edge is: 134 146
+Adding edge : 49 8.51437 1.2346
+size of selected edge set: 49
+selected edge is: 75 80
+Adding edge : 50 8.53985 1.20912
+size of selected edge set: 50
+selected edge is: 179 222
+Found k nodes
+Duration ELM LB:71.6677
+Total ELM LB : 8.56491
+Duration SW LB:15.4968
+Total Original Graph weight : 6.42803
+Total SW LB : 9.74897
+Sum Relative Error on edge : 0.486586
+root mean square error : 0.00272237
