@@ -1,0 +1,5 @@
+ Time SW: 0.6654138565063477
+ Time lbub: 0.08134794235229492
+ Average Error with LBT 0.00539793484605317
+ Average Error with Original 0.38082028552657093
+
